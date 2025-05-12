@@ -64,7 +64,7 @@ const AffirmationPractice = () => {
                   <Text
                     style={{
                       fontFamily: "PlayfairDisplay", // Or another calm serif font
-                      fontSize: 26,
+                      fontSize: 25,
                       fontWeight: "400", // Lighter for softer appearance
                       textAlign: "center",
                       color: "white",
