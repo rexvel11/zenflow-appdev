@@ -14,15 +14,15 @@ Built with React Native to deliver seamless user experiences, this app features 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Onboarding Screen**: Welcome screen with a linear gradient to help users get started with the app.
+ **Onboarding Screen**: Welcome screen with a linear gradient to help users get started with the app.
 
-👉 **Meditation List Screen with Flat List**: A flat list displays previews of various meditations with corresponding images.
+ **Meditation List Screen with Flat List**: A flat list displays previews of various meditations with corresponding images.
 
-👉 **Audio Playing Capability**: Control audio playback and manage a meditation countdown timer.
+ **Audio Playing Capability**: Control audio playback and manage a meditation countdown timer.
 
-👉 **Tab Navigation**: Navigate between sections like the Meditation Screen and Affirmations screen with ease using tab navigation.
+ **Tab Navigation**: Navigate between sections like the Meditation Screen and Affirmations screen with ease using tab navigation.
 
-👉 **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
+ **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
 
 and many more, including code architecture and reusability
 
@@ -40,19 +40,11 @@ Make sure you have the following installed on your machine:
 
 **Cloning the Repository**
 
-```bash
-git clone https://github.com/stevenGarciaDev/simple-meditation-app-expo-react-native.git
-cd simple-meditation-app-expo-react-native
-```
 
 **Updating Dependencies**
 To ensure your project is using the latest stable versions of Expo and React Native:
 
-Run the Expo upgrade command:
-
-```bash
-expo upgrade
-```
+Run the Expo upgrade co
 
 This will update package.json and install the correct versions of dependencies.
 
