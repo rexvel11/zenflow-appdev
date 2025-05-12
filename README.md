@@ -1,9 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/channel/UCzrpTaJWhZZNLLE_3obvE2Q" target="_blank">
-      <img src="https://i.postimg.cc/rygDVH1m/React-Native-Git-Hub-Cover.png" alt="Project Banner">
-    </a>
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
