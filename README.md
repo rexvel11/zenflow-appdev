@@ -26,7 +26,7 @@ Built with React Native to deliver seamless user experiences, this app features 
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
