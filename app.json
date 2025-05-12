@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/simpleMeditationLogo.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.rexvel11.zenflowaddpdev"
     },
     "web": {
       "favicon": "./assets/favicon.png"
